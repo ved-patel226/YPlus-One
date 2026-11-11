@@ -6,10 +6,20 @@ A ~60 inch, custom designed RC airliner with a slotted-flap wing, designed in On
 
 [![Onshape](https://img.shields.io/badge/CAD-Onshape-1B9DFF?logo=onshape&logoColor=white)](https://cad.onshape.com/documents/b1fc48afe09eca492ff6bd9f/w/fced08ed961535a0ef0e8bab/e/e7c3ec921a994058b9e2f57d?renderMode=0&uiState=6af274d17d2620d39d7b46b0)
 
+## Wiring diagram
+
+<img src="assets/wiring-diagram.png" alt="Wiring diagram" style="width:100%">
+
+## Bill of materials
+
+See [BOM.csv](BOM.csv) (about $507 total).
+
 ## Files
 
 - `cad/`: Onshape link + STEP/STL exports
-- `assets/`: images
+- `assets/`: images + wiring diagram
+- `BOM.csv`: parts list
+- `JOURNAL.md`: build log
 
 ## Flight log
 
